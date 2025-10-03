@@ -22,7 +22,7 @@ Sistema de gestión de e-commerce para productos de anime, mangas, novelas liger
 
 ## Instalación
 ```bash
-git clone https://github.com/tuUsuario/AnimeStore-Go.git
+git clone https://github.com/mavillagranpa-web/AnimeStore-Go.git
 cd AnimeStore-Go
 go run main.go
 
