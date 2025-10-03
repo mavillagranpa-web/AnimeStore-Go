@@ -1,4 +1,4 @@
-# Estructura del proyecto
+##  Estructura del proyecto
 AnimeStore-Go/
 ├─ main.go           # Archivo principal del programa
 ├─ productos.go      # Funciones de gestión de productos
