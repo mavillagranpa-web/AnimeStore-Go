@@ -1,6 +1,5 @@
 # AnimeStore-Go
 Sistema de gestión de e-commerce de productos de anime, mangas, figuras y merchandising
-# AnimeStore-Go
 
 ## Descripción
 Sistema de gestión de e-commerce para productos de anime, mangas, novelas ligeras y merchandising, implementado en Go. Permite gestionar productos, ventas, inventario y estadísticas de manera sencilla.
