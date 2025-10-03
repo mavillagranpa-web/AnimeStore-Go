@@ -6,4 +6,8 @@ AnimeStore-Go/
 ├─ estadisticas.go   # Funciones de estadísticas
 └─ slices/           # Paquete para listas de productos y precios
 
-La estructura puede variar de acuerdo a las necesidades del proyecto y como vaya evolucionando
+Los archivos por ahora solo existen como referencia de los módulos que se implementarán.
+
+La estructura puede variar de acuerdo a las necesidades del proyecto y cómo evolucione el desarrollo.
+
+Esta organización permite mantener un repositorio limpio y modular, facilitando la adición de funciones como registro de productos, ventas, estadísticas y conexión con una API en el futuro.
