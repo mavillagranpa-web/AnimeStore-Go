@@ -1,0 +1,9 @@
+# Estructura del proyecto
+AnimeStore-Go/
+├─ main.go           # Archivo principal del programa
+├─ productos.go      # Funciones de gestión de productos
+├─ ventas.go         # Funciones de registro de ventas
+├─ estadisticas.go   # Funciones de estadísticas
+└─ slices/           # Paquete para listas de productos y precios
+
+La estructura puede variar de acuerdo a las necesidades del proyecto y como vaya evolucionando
